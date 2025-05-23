@@ -82,8 +82,4 @@ Thanks to everyone learning and experimenting with HTML and web development!
 
 Inspired by GitHub-style project documentation.
 
-
-
----
-
-Let me know if you'd like this saved as a .md file or need additional formatting!
+Thank you all !!!
